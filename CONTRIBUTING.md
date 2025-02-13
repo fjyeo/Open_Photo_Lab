@@ -4,11 +4,11 @@ Thank you for your interest in contributing to **OpenPhotoLab**! We welcome cont
 
 ## 📌 How to Contribute
 ### 1. Fork the Repository
-Click the **Fork** button at the top right of the [GitHub repository](https://github.com/yourusername/OpenPhotoLab) to create your copy.
+Click the **Fork** button at the top right of the [GitHub repository](https://github.com/fjyeo/Open_Photo_Lab) to create your copy.
 
 ### 2. Clone Your Fork
 ```bash
-git clone https://github.com/yourusername/OpenPhotoLab.git
+git clone https://github.com/fjyeo/Open_Photo_Lab.git
 cd OpenPhotoLab
 ```
 

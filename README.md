@@ -27,8 +27,8 @@ OpenPhotoLab is an open-source, high-performance photo editing and management ap
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/OpenPhotoLab.git
-cd OpenPhotoLab
+git clone https://github.com/yourusername/Open_Photo_Lab.git
+cd Open_Photo_Lab
 ```
 
 Install dependencies:

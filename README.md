@@ -52,8 +52,8 @@ We welcome contributions! To get started:
 Check out our [Contributing Guide](CONTRIBUTING.md) for more details.
 
 ## 📝 Roadmap
-- ✅ Basic RAW processing
-- ✅ Non-destructive editing workflow
+- 🚧 Basic RAW processing
+- 🚧 Non-destructive editing workflow
 - 🚧 GPU acceleration for real-time rendering
 - 🚧 Mobile & tablet support via PWA
 - 🚧 AI-based sky replacement & object removal
@@ -64,7 +64,6 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 ## 💬 Community & Support
 - Join our **Discord** for discussions and support: [Discord Invite Link]
-- Follow us on **Twitter** for updates: [Twitter Handle]
 - Submit bug reports and feature requests via **GitHub Issues**
 
 Let's build the future of photo editing together! 🎨🚀

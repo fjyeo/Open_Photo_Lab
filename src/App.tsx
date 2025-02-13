@@ -39,7 +39,7 @@ function App() {
             return {
               id: crypto.randomUUID(),
               path,
-              filename: path.split(/[/\\]/).pop() || path, 
+              filename: path.split('/').pop() || path,
               metadata
             };
           })

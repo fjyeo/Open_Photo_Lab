@@ -12,13 +12,14 @@
   "dependencies": {
     "@tauri-apps/api": "^1.x",
     "@tauri-apps/plugin-opener": "^2",
+    "chart.js": "^4.4.7",
     "react": "^18.x",
     "react-dom": "^18.x"
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^1.x",
     "@types/react": "^18.x",
     "@types/react-dom": "^18.x",
-    "@tauri-apps/cli": "^1.x",
     "@vitejs/plugin-react": "^4.3.4",
     "typescript": "^5.x",
     "vite": "^6.0.3"
